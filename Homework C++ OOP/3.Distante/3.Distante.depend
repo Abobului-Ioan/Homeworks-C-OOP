@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1610094843 source:c:\users\ioan\desktop\portofoliu\3.distante\distanta.cpp
+	"distanta.h"
+
+1610094880 c:\users\ioan\desktop\portofoliu\3.distante\distanta.h
+	<iostream>
+
+1610094722 source:c:\users\ioan\desktop\portofoliu\3.distante\main.cpp
+	<iostream>
+	"distanta.h"
+

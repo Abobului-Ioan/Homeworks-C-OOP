@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1610309133 source:c:\users\ioan\desktop\portofoliu\4.citeste si aduna 2 timpi\main.cpp
+	<iostream>
+	"Timp.h"
+
+1610309152 c:\users\ioan\desktop\portofoliu\4.citeste si aduna 2 timpi\timp.h
+	<iostream>
+

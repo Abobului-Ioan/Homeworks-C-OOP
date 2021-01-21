@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1610383968 source:c:\users\ioan\desktop\portofoliu\5.membri statici\main.cpp
+	<iostream>
+	"Cerc.h"
+
+1610383927 c:\users\ioan\desktop\portofoliu\5.membri statici\cerc.h
+	<iostream>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1610441877 source:c:\users\ioan\desktop\portofoliu\10. lista de candidati si alege castigatorul bazat pe voturi\candidat.cpp
+	"Candidat.h"
+
+1610441877 c:\users\ioan\desktop\portofoliu\10. lista de candidati si alege castigatorul bazat pe voturi\candidat.h
+	<bits/stdc++.h>
+	<iostream>
+

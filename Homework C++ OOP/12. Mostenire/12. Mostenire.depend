@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1610446212 source:c:\users\ioan\desktop\portofoliu\12. mostenire\baza1.cpp
+	"baza1.h"
+
+1610446212 c:\users\ioan\desktop\portofoliu\12. mostenire\baza1.h
+	<iostream>
+
+1610446212 source:c:\users\ioan\desktop\portofoliu\12. mostenire\baza2.cpp
+	"baza2.h"
+
+1610446212 c:\users\ioan\desktop\portofoliu\12. mostenire\baza2.h
+	<iostream>
+
+1610446324 source:c:\users\ioan\desktop\portofoliu\12. mostenire\derivat.cpp
+	"derivat.h"
+
+1610446324 c:\users\ioan\desktop\portofoliu\12. mostenire\derivat.h
+	"baza1.h"
+	"baza2.h"
+	<iostream>
+
+1610446212 source:c:\users\ioan\desktop\portofoliu\12. mostenire\main.cpp
+	<iostream>
+	"baza1.h"
+	"baza2.h"
+	"derivat.h"
+

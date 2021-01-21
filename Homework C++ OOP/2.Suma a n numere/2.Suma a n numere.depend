@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1608388628 source:c:\users\ioan\desktop\portofoliu\2.suma a n numere\main.cpp
+	"numar.h"
+
+1608388628 c:\users\ioan\desktop\portofoliu\2.suma a n numere\numar.h
+	<iostream>
+
+1610095132 source:c:\users\ioan\desktop\portofoliu\2.suma a n numere\numar.cpp
+	"numar.h"
+

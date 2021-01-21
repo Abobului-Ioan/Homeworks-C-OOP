@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1610444122 source:c:\users\ioan\desktop\portofoliu\11. management banca\banca.cpp
+	"Banca.h"
+
+1610444146 c:\users\ioan\desktop\portofoliu\11. management banca\banca.h
+	<iostream>
+
+1610444357 source:c:\users\ioan\desktop\portofoliu\11. management banca\main.cpp
+	<iostream>
+	"Banca.h"
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1610452462 source:c:\users\ioan\desktop\portofoliu\15.calculeaza factura\factura.cpp
+	"factura.h"
+
+1610452462 c:\users\ioan\desktop\portofoliu\15.calculeaza factura\factura.h
+	<iostream>
+
+1610452500 source:c:\users\ioan\desktop\portofoliu\15.calculeaza factura\main.cpp
+	<iostream>
+	"factura.h"
+

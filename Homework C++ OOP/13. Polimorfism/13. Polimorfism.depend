@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1610449792 source:c:\users\ioan\desktop\portofoliu\13. polimorfism\forma.cpp
+	"Forma.h"
+
+1610449821 c:\users\ioan\desktop\portofoliu\13. polimorfism\forma.h
+	<iostream>
+
+1610449792 source:c:\users\ioan\desktop\portofoliu\13. polimorfism\punct.cpp
+	"Punct.h"
+
+1610449987 c:\users\ioan\desktop\portofoliu\13. polimorfism\punct.h
+	<iostream>
+	"Forma.h"
+
+1610450113 source:c:\users\ioan\desktop\portofoliu\13. polimorfism\main.cpp
+	<iostream>
+	"Forma.h"
+	"Punct.h"
+

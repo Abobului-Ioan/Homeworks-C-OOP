@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1610386535 source:c:\users\ioan\desktop\portofoliu\6. functii private\main.cpp
+	<iostream>
+	"Student.h"
+
+1610386528 c:\users\ioan\desktop\portofoliu\6. functii private\student.h
+	<iostream>
+

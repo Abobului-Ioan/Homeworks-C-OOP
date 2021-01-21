@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1604683963 source:c:\users\ioan\desktop\poo laborator\lab_5\suma nr cu clase\suma.cpp
+	"suma.h"
+
+1604684006 c:\users\ioan\desktop\poo laborator\lab_5\suma nr cu clase\suma.h
+	<iostream>
+
+1604684092 source:c:\users\ioan\desktop\poo laborator\lab_5\suma nr cu clase\main.cpp
+	<iostream>
+	"suma.h"
+
+1604684092 source:c:\users\ioan\desktop\portofoliu\1.suma 3 numere\main.cpp
+	<iostream>
+	"suma.h"
+
+1604684006 c:\users\ioan\desktop\portofoliu\1.suma 3 numere\suma.h
+	<iostream>
+
+1604683963 source:c:\users\ioan\desktop\portofoliu\1.suma 3 numere\suma.cpp
+	"suma.h"
+

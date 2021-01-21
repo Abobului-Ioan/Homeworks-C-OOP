@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1610392056 source:c:\users\ioan\desktop\portofoliu\9. accesare functie din clasa cu un pointer\main.cpp
+	<iostream>
+	"Numar.h"
+
+1610392080 c:\users\ioan\desktop\portofoliu\9. accesare functie din clasa cu un pointer\numar.h
+	<iostream>
+
